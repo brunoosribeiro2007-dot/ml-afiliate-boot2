@@ -13,13 +13,13 @@ services:
       - key: DATABASE_URL
         sync: false
       - key: WHATSAPP_TARGET_NUMBER
-        value: "5569984520192"
+        value: "556992637057"
       - key: WHATSAPP_TARGET_GROUP
-        value: "OfertaLar #17"
+        value: "Achadinhos Top"
       - key: ML_AFFILIATE_TAG
         sync: false
       - key: ML_SEARCH_KEYWORD
-        value: "Panelas, frigideiras, Talheres, pratos, copos, Air Fryer, Liquidificador, Micro-ondas, Cafeteira, Potes herméticos, Porta temperos, Tábua de corte, Vassoura, Rodo, Mop esfregão, Balde, Panos de limpeza, Sabão líquido, Detergente, Desinfetante, Água sanitária, Amaciante, Esponjas, Luvas de limpeza, Máquina de lavar, Varal, Ferro de passar, Tábua de passar, Cesto de roupa, Organizadores de roupa, Sofá, Rack painel TV, Televisão, Tapete sala, Cortina, Ventilador, Cama colchão, Travesseiros, Lençóis, Cobertores, Guarda-roupa, Cabides, Chuveiro, Toalhas banho, Tapete de banheiro, Lixeira banheiro, Espelho banheiro, Porta sabonete, Caixas organizadoras, Organizadores de gaveta, Prateleiras, Nichos parede, Carrinho com rodinhas, Quadros decorativos, Luminárias decorativas, Plantas artificiais, Espelhos decorativos, Velas decorativas, Almofadas, Cortinas estilizadas, Tapetes decorativos"
+        value: "Panelas, frigideiras, Talheres, pratos, copos, Air Fryer, Liquidificador, Micro-ondas, Cafeteira, Potes herméticos, Porta temperos, Tábua de corte, Vassoura, Rodo, Mop esfregão, Balde, Panos de limpeza, Sabão líquido, Detergente, Desinfetante, Água sanitária, Amaciante, Esponjas, Luvas de limpeza, Máquina de lavar, Varal, Ferro de passar, Tábua de passar, Cesto de roupa, Organizadores de roupa, Sofá, Rack painel TV, Televisão, Tapete sala, Cortina, Ventilador, Cama colchão, Travesseiros, Lençóis, Cobertores, Guarda-roupa, Cabides, Chuveiro, Toalhas banho, Tapete de banheiro, Lixeira banheiro, Espelho banheiro, Porta sabonete, Caixas organizadoras, Organizadores de gaveta, Prateleiras, Nichos parede, Carrinho com rodinhas, Quadros decorativos, Luminárias decorativas, Plantas artificiais, Espelhos decorativos, Velas decorativas, Almofadas, Cortinas estilizadas, Tapetes decorativos,Tênis de corrida,Tênis de academia,Tênis casual / sneaker,Tênis de basquete,Tênis de futsal,Mouse gamer,Mouse sem fio,Mouse pad gamer,Teclado mecânico gamer,Teclado semi mecânico,Kit teclado,mouse gamer,Headset gamer,Controle para PC / console,Cadeira gamer,Monitor gamer,Bola de futebol campo,Bola de futsal,Bola de basquete,Bola de vôlei,Bola de beach tennis,Camiseta esportiva,Shorts esportivos,Mochila esportiva,Garrafa térmica esportiva,Relógio esportivo"
       - key: CRON_CAPTURE_SCHEDULE
         value: "0 * * * *"
       - key: CRON_PUBLISH_SCHEDULE
